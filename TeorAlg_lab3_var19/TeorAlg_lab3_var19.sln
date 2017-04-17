@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeorAlg_var19", "TeorAlg_var19\TeorAlg_var19.csproj", "{E2420059-6132-4C0A-8BE2-0C93084D8BB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeorAlg_lab3_var19", "TeorAlg_lab3_var19\TeorAlg_lab3_var19.csproj", "{2C5A22A9-685A-4856-8790-910FC9C84A01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E2420059-6132-4C0A-8BE2-0C93084D8BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E2420059-6132-4C0A-8BE2-0C93084D8BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E2420059-6132-4C0A-8BE2-0C93084D8BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2420059-6132-4C0A-8BE2-0C93084D8BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5A22A9-685A-4856-8790-910FC9C84A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5A22A9-685A-4856-8790-910FC9C84A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5A22A9-685A-4856-8790-910FC9C84A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5A22A9-685A-4856-8790-910FC9C84A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
