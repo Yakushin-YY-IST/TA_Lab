@@ -31,7 +31,7 @@ namespace TeorAlg_lab1
             if (z1 == z2)
                 Console.WriteLine("z1=z2");
             Console.WriteLine("Для выхода нажми что-нибудь");
-            Console.ReadKey(true);
+            Console.ReadKey(true); 
         }
     }
 }
